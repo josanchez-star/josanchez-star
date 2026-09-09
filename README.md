@@ -1,5 +1,7 @@
-## Hi there , My name is John Sanchez👋
-
+<div>
+<img src="https://github.com/josanchez-star.png" width="150"/>
+  ## Hi there , My name is John Sanchez👋
+</div> 
 I'm a Cycle 60 intern at I.C. Stars.
 
 I'm currently working on the Medline Operation Problem Navigator.
