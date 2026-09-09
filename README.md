@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/josanchez-star.png" width="150"/>
    
-   Hi there , My name is John Sanchez👋
+   <h1>Hi there , My name is John Sanchez👋</h1>
 </div> 
 I'm a Cycle 60 intern at I.C. Stars.
 
