@@ -10,6 +10,7 @@ I'm currently working on the Medline Operation Problem Navigator.
 
 
 **Reach me @**
+
 +[My gmail account](mailto:josanchez@icstars.org)
 
 +[My Linkdin Profile](https://www.linkedin.com/in/john-sanchez-96279a435/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqMLMPRwaRmi%2BLh2s5Mepcg%3D%3D)
