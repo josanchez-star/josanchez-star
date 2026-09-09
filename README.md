@@ -13,13 +13,12 @@ I'm currently working on the Medline Operation Problem Navigator.
 <details>
 <summery>My Favorite Animals.</summery>
 
-   +Lion
-
-   +Great White shark
-
-   +Komodo dragon
-
-   +Bald Eagle
+<ul>
+ <li>Lions</li>
+   <li>Great white sharks</li>
+   <li>Komodo dragon</li>
+   <li>Bald Eagle</li>
+</ul>
 </details>
 
 **Reach me @**
