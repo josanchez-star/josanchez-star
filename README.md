@@ -10,7 +10,13 @@ I'm currently working on the Medline Operation Problem Navigator.
 **Currently Building:** A project with my team "All Stars Associates" for Medline to be able to fix an issue pertaining to their system not tracking report tickets.
 
 **My goal this cycle:** I want to be able to make a system with my team that can work with their needs by the end of the program.
-
+<deatils>
+<summery>My Favorite Animals.</summery>
++Lion
++Great White shark
++Komodo dragon
++Bald Eagle
+</deatils>
 
 **Reach me @**
 
