@@ -12,10 +12,14 @@ I'm currently working on the Medline Operation Problem Navigator.
 **My goal this cycle:** I want to be able to make a system with my team that can work with their needs by the end of the program.
 <details>
 <summery>My Favorite Animals.</summery>
-+Lion
-+Great White shark
-+Komodo dragon
-+Bald Eagle
+
+   +Lion
+
+   +Great White shark
+
+   +Komodo dragon
+
+   +Bald Eagle
 </details>
 
 **Reach me @**
