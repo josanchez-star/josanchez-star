@@ -9,7 +9,7 @@ I'm currently working on the Medline Operation Problem Navigator.
 **My goal this cycle:** I want to be able to make a system with my team that can work with their needs by the end of the program.
 
 
-**Reach me @**
+(u)**Reach me @**(/u)
 
 +[My gmail account](mailto:josanchez@icstars.org)
 
